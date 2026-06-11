@@ -13,3 +13,7 @@ mvn -pl vycepay-admin-service -am test
 ```
 
 If you clone only this repository, install `vycepay-common` and `vycepay-database` into your local Maven repository from the monorepo first, or adjust `pom.xml` to match your layout.
+
+## Standalone mirror
+
+Source is also mirrored at [github.com/murtzamalik/vycepay-admin-service](https://github.com/murtzamalik/vycepay-admin-service).
